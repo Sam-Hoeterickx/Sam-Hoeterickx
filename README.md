@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-Hoeterickx
-- 👀 I’m interested in Webdevelopment, HTML, CSS
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Webdevelopment, HTML, CSS, Javascript, Kotlin
+- 🌱 I’m currently learning Node, Webpack, Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sam.hoetrickx@student.ehb.be
 
